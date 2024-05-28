@@ -28,10 +28,10 @@ Airline delays can be caused by numerous factors such as weather, carrier issues
 Here we present the performance metrics of our neural network model:
 
 ### Model Accuracy
-![Accuracy](https://github.com/KhaledElshamy/Deep-Learning-Projects/blob/main/DNN/Accuracy.png)
+![Accuracy](https://github.com/KhaledElshamy/Airline-Delay-Cause-Prediction/blob/main/DNN/Accuracy.png)
 
 ### Model Loss
-![Loss](https://github.com/KhaledElshamy/Deep-Learning-Projects/blob/main/DNN/Loss.png)
+![Loss](https://github.com/KhaledElshamy/Airline-Delay-Cause-Prediction/blob/main/DNN/Loss.png)
 
 ### Confusion_Matrix 
 ![Confusion Matrix](https://github.com/KhaledElshamy/Airline-Delay-Cause-Prediction/blob/main/DNN/ConfusionMatrix.png)
